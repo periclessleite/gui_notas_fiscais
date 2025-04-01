@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "notas-fiscais-453213",
+  "private_key_id": "cdab7fbdf2004418950e4207428f7c65034e066f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC2jZtHALf+GNRh\nwI3Q4WZrA2AjJL8kEznn52kGvUtuLcePAaTF+K6z3By+rzluzlUsX4eK7ske8H+q\n0dJkggLWQel5e4iMtC/rvVSJICUln7EQhB38RBobIJrD8zdvDHKvJncrqPh5W4ji\nik37n1IKCSlKoP/5FUPqsIPYvPC9krBiEMRJSnzr4kXMA1O+5YkqoTLGpIEM6lii\n5RvoqeyOZb1ZaYUXA+k597mvEodz/GesPLBU4cc6HNvIpRCh17VysICHsHgOt2sy\niJ6+jJUHZyzYXQiHZc/VEh9iSO7PCKyZmlYo7yxTq/lUNHASuNJHLQYvcKaVqZvu\ndXNj+CuLAgMBAAECggEATIklG0khWs5lKJCWxIbjriUNpt5OptzKr8AVB+bQG6Lk\n4j+BqiCfejfj80w6i4rFKePpS2Xee3LAS8lJaKsbbmHW9YBF2RvoZXEM4qrP+Cyy\nCycg/TU+LrZmPJYZXRz+bhF18B+ZASRPyQ7MMBz1Q9Dgd3H1r6PrRBd6R6G7WvbR\nzkcPQf5gpdVWDvCq3Co/2FHE/OhmOCVU9uDqjm69ybfTwLkxljl7zseSvDF7Ak2r\nO+6HfacjSCeMGtgG1URCREkMxVoHnrDmdMf2mXsy32iiP/6UonD43hdgb12l6bFy\nVGMWGyhpR1pUhTjIF4U5jkKTfj9FJqAcuit10YKwZQKBgQDqhY/U8u878W2rpVGO\nrOiJ0g/ytVZ96daqLFoyClmIPV27Oel77nVijQnvewCuWO5pg6CtBuzu9RpN6kd6\nwwQhe+J1npWRRC7bsu/kn5OzjX1yG/pz6/8l91nsNWTrQtbrzr/fy2hTBa27Yjh4\nn55P+2PKubbmk1gW8LAi1+oT9wKBgQDHRZ/ixdVvs465OI/6jTzl+spJUVnosK1O\nAGwR7uLkIgVhk2Zt+9H8Y6y1yYlZ8tTPHaszTxZV5xO5HC2m9ufRqBKjjrLsaXRH\n1anisB14XprLPDUR9V2RNTpIyxa7uVUFyDVGlwIWCkHUPPcO6WwptHnUebhbq4cT\nRic35PoYDQKBgC+WHlNFYAm3uVsk1mGu8BhXCWlkJkKyWh55lWul8fjVCtncrGW7\nQxJWL/fp6391CBtc3BN/3j+2eDnrGcntHD93FcJsBUlOnntx2X94ac37HcMzriQr\ndMBNam+lfe7Gxzld4E0WxvphopjtGyxOpx7vkZYnDNfIeg1dlT/cs+CNAoGBALxG\nLCo2gNJo9BBMQLyZdVBVA4sCMdCIHTX1cCYBbp3dBviKK9z+cAfmpOec4wj5Rdfq\nUDbKInBHQ3tCBGAcKCsOgY3G5YY4nITCeyCTBUUVHWuoFvxAt4bao5bjSzdSg+JS\npwNq6a2pQ0kj0MlmAavluLXnyyfRiG3NeoB091aBAoGAW/NOf+B2f8UjcMAtSsTM\nQ17wi4BZPI8h1IViyZrBTNxRChM3czA9eQ7FOThy8gNm48qsw9AMhHVxu5W4Cztd\n3X4hzQKBdpIDnjhAsepkWWnmB7TSGSytiXmuOuwR0D4kOz7hDGRBMtWQj04bejnu\neRwGerlT7FkYeFHbNphrgG8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "chave-drive@notas-fiscais-453213.iam.gserviceaccount.com",
+  "client_id": "113615618940522819332",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/chave-drive%40notas-fiscais-453213.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
