@@ -1,4 +1,4 @@
 BACKUPs/
 .vscode/
-__pychache__
+**/__pycache__/
 data/
