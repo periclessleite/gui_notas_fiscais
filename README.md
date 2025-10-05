@@ -1,1 +1,0 @@
-# gui_notas_fiscais
