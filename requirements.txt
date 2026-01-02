@@ -1,0 +1,5 @@
+# Manipulação de Dados
+pandas==2.1.1
+
+# Interface e Visualização
+streamlit==1.28.2
